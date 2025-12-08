@@ -2,12 +2,6 @@
 
 # 💫 About Me
 
-<!--
-![Profile views](https://komarev.com/ghpvc/?username=jatinn2512&label=Profile%20views&color=7745bf&)
-![GitHub followers](https://img.shields.io/github/followers/jatinn2512?style=flat&logo=github&label=Followers&color=7c60d1)
-![GitHub stars](https://img.shields.io/github/stars/jatinn2512?style=flat&logo=github&label=Stars&color=fd7cff)
--->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full+Stack+Web+Development;Generative+AI+%26+Machine+Learning;Cloud+Deployment+%26+DevOps;Creative+Problem+Solving" alt="Typing SVG" />
 </p>
@@ -17,72 +11,61 @@
 - 🌱 **Currently Learning:** Machine Learning, Deep Learning, Model Deployment
 - 🔧 **Tech Stack:** Python, React.js, TypeScript, Node.js, Java  
 - 🛠️ **Interests:** Generative AI, AI-based Web Tools & Mobile Applications
-- 📫 **Reach me:** [E-mail](jxtron25@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jatinkumar2512/)
 
-## 🌐 Socials
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jatin-kumar-jk2512/)&nbsp;
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/jatinn2512)&nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jxtron25@gmail.com)&nbsp;
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/jxtron25)
+## 🌐 Reach Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin-kumar-jk2512/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:jxtron25@gmail.com)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/jxtron25)
 
 # 💻 Tech Stack
 
 ## 🚀 Languages
 <div align="left">
   
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![Java](https://skillicons.dev/icons?i=java)
-![C++](https://skillicons.dev/icons?i=cpp)
-![C](https://skillicons.dev/icons?i=c)
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=plastic&logo=postgresql&logoColor=white)
 
 </div>
 
 ## 🌐 Web Development
 <div align="left">
 
-![React](https://skillicons.dev/icons?i=react)
-![NextJS](https://skillicons.dev/icons?i=nextjs)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Flask](https://skillicons.dev/icons?i=flask)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-</div>
-
-## 🗄️ Databases & Cloud
-<div align="left">
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Netlify](https://skillicons.dev/icons?i=netlify)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 
 </div>
 
 ## 🤖 AI & Data Science
 <div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> &nbsp;
-![scikit-learn](https://skillicons.dev/icons?i=scikitlearn)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
 
 </div>
 
 ## 🔧 Tools & Others
 <div align="left">
 
-![Figma](https://skillicons.dev/icons?i=figma)
-![Git](https://skillicons.dev/icons?i=git)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Postman](https://skillicons.dev/icons?i=postman)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 </div>
 
