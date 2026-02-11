@@ -83,18 +83,9 @@
 
 </div>
 
-## 💡 Fun Facts
-
-- ⚡ I enjoy solving complex problems with clean code
-- 🎯 Passionate about creating user-friendly interfaces  
-- 🚀 Always excited to learn new technologies
-- 📚 Love reading about AI advancements and web technologies
-
----
-
 <div align="center">
 
-#### 💝 "Code is poetry in motion - creating solutions that make a difference"
+####  "It's okay to visit someone's else profile to improve yourself.."
 
 ⭐ **From [Jatin](https://github.com/jatinn2512)** 
 
